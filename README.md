@@ -1,4 +1,4 @@
-# Aspect mining on swiggy Restaurants Data-Extraction
+# Aspect mining on Extracted data from swiggy restaurants
 
 Step 1:
 
