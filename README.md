@@ -11,15 +11,19 @@ Step 1:-
   
 
 Step 2:-
+
   Data cleaning
   
 Step 3:-
+
   Extract most frequent words from all descriptions
   
 Step 4:-
+
   Aspect mining on descriptions 
   
 Step 5:-
+
   Data visulization using Tableau 
   
 
