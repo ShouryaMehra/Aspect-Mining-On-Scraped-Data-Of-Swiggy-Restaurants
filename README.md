@@ -1,6 +1,6 @@
 # Aspect mining on swiggy Restaurants Data-Extraction
 
-Step 1:-
+Step 1:
 
   Extracted data contains:
   
@@ -10,21 +10,13 @@ Step 1:-
     4. Item Description
   
 
-Step 2:-
-
-  Data cleaning
+Step 2: Data cleaning
   
-Step 3:-
-
-  Extract most frequent words from all descriptions
+Step 3: Extract most frequent words from all descriptions
   
-Step 4:-
-
-  Aspect mining on descriptions 
+Step 4: Aspect mining on descriptions 
   
-Step 5:-
-
-  Data visulization using Tableau 
+Step 5: Data visulization using Tableau 
   
 
 
