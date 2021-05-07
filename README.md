@@ -1,11 +1,14 @@
 # Aspect mining on swiggy Restaurants Data-Extraction
 
 Step 1:-
+
   Extracted data contains:
+  
     1. Item Tags
     2. Item Name
     3. Ttem Price
     4. Item Description
+  
 
 Step 2:-
   Data cleaning
